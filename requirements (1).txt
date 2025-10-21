@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+tqdm
+joblib
+nltk
+scikit-learn
+torch
+transformers
+sentence-transformers
+altair
+gdown
+requests
